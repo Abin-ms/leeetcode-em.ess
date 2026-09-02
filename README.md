@@ -9,6 +9,7 @@
 | [0645-set-mismatch](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
