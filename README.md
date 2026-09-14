@@ -53,5 +53,14 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0258-add-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/3875-construct-uniform-parity-array-i) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
