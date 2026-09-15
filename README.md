@@ -18,6 +18,7 @@
 | [0242-valid-anagram](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
 |  |
@@ -83,6 +85,7 @@
 | [0242-valid-anagram](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -91,4 +94,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
