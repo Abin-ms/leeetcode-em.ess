@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0014-longest-common-prefix) |
+| [0349-intersection-of-two-arrays](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0645-set-mismatch) |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -83,4 +87,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
