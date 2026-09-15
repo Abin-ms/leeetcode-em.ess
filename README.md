@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0014-longest-common-prefix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -72,6 +73,11 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0383-ransom-note) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abin-ms/leeetcode-em.ess/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
